@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* cooking
+* travel
+  * Going to foreign countries
+  * eating lots of food
